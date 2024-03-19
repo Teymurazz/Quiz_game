@@ -1,0 +1,4 @@
+What color is apple?,Blue,Red/Green,Violet,Black
+What color is sky?,Blue,Yellow,Red,Brown
+What color is Banana?,Brown,Red,Yellow,White
+What is the capital of Azerbaijan?,Baku,Bohum,Banglades,Bali
